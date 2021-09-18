@@ -13,6 +13,3 @@
 /backend/.env.*.local
 /backend/.env
 /backend/.DS_Store
-/backend/knexfile.js
-/backend/migrations/*
-backend/migrations
